@@ -26,10 +26,10 @@ I would like to control the time duration of color changing by using a for loop 
 I also wanted to replace the value in rgb() by creating variables to change the color through loops or if statements and functions related to math, but that didn't work either, and my changes seem not be able to affect the screen change, although I'm not sure exactly what's wrong.
 
 For the sound part I tried to use the mouse position to influence the change of the background sound, this was done with the getMouse() function, and I was able to edit the sound with the help of the maximilian library.
-![image](https://github.com/ZoeXiongyyy/Coding-one_Final-Work/blob/main/img/coding%20screenshot4.png)
+![image](https://github.com/ZoeXiongyyy/Coding-one_Final-Work/blob/main/img/coding%20screenshot5.png)
 
 I tried to use oscillators but since the resulting sound was not in harmony with the whole picture, I commented out this part of the code.
-![image](https://github.com/ZoeXiongyyy/Coding-one_Final-Work/blob/main/img/coding%20screenshot5.png)
+![image](https://github.com/ZoeXiongyyy/Coding-one_Final-Work/blob/main/img/coding%20screenshot4.png)
 
 #### Visualiztion
 I created bufferGeometry and a for loop to generate the position of multiple triangles using shader and RawShaderMaterial() to change the visual effect of the triangle combination.
