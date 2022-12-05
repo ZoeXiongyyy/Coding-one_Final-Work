@@ -9,7 +9,7 @@ View the full project link at：https://mimicproject.com/code/046ce897-286c-2b7d
 
 View the final video at:https://youtu.be/Noph3oCNb7k
 
-View full code link at:https://github.com/ZoeXiongyyy/Coding-one_Final-Work/tree/main/code
+View full Github code link at:https://github.com/ZoeXiongyyy/Coding-one_Final-Work/tree/main/code
 
 #### Interaction
 You can make a color change by passing the mouse over a single object in 3D, and you will hear the corresponding sound during this interaction.
